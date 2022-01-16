@@ -12,3 +12,8 @@ We want this course to build into something useful so we've structured it like t
 2. Cloud Providers (how you host your product for customers)
 3. Source Control (how developers working for you interact with your product at a fundamental level)
 4. Secrets and Credential Management (how to ensure your product and customer's data is protected)
+
+# Notes for Editing These Files
+- Mick using obsidian.md as an editor, as bit of an experiment
+- Mick also uses Deckset for presentations
+- Neither of these is required!

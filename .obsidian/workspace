@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/DNS.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/DNS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/DNS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/DNS.md"
+                "file": "README.md"
               }
             }
           }
@@ -111,9 +111,9 @@
   },
   "active": "e52e2a0442a9de6e",
   "lastOpenFiles": [
+    "README.md",
     "Networking/DNS.md",
     "Slides/Networking Slides.md",
-    "Non-Technical Founders Workshops.md",
     "Networking/DNS Lookup Failure Example.png",
     "Networking/Networking.md",
     "Networking/HTTP.md",
