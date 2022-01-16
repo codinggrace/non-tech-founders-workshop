@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Networking/Slides/Networking Slides.md",
+            "file": "Networking/DNS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Slides/Networking Slides.md"
+                "file": "Networking/DNS.md"
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Slides/Networking Slides.md",
+                "file": "Networking/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Slides/Networking Slides.md",
+                "file": "Networking/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,13 +122,13 @@
   },
   "active": "e52e2a0442a9de6e",
   "lastOpenFiles": [
-    "Networking/Slides/Networking Slides.md",
     "Networking/DNS.md",
-    "Networking/Images/DNS Lookup Failure Example.png",
-    "Networking/How DNS and HTTP fit together.md",
+    "Networking/Slides/Networking Slides.md",
     "Networking/HTTP.md",
     "Networking/Networking.md",
-    "Excalidraw/Drawing 2022-01-16 14.37.16.excalidraw.md",
-    "README.md"
+    "Networking/How DNS and HTTP fit together.md",
+    "README.md",
+    "Networking/Images/DNS Lookup Failure Example.png",
+    "Excalidraw/Drawing 2022-01-16 14.37.16.excalidraw.md"
   ]
 }

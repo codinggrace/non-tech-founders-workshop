@@ -37,6 +37,8 @@ For example mysite.example.com and myothersite.example.com could be read as:
 
 At different levels different companies "own" the names.
 
+Typically the top level .com bit is special, you can't buy that. The next level (mycompany.com) is the bit you can buy.
+
 ## Buying a Domain
 When you "buy" a domain you are typically leasing rights to it for a period of time (usually a year). You typically buy domains from registrars like Gandi.
 
@@ -49,11 +51,12 @@ Once you've bought the domain you can redirect any traffic you wish to your own 
 
 Typically the original company can dispute this and reclaim ownership of the domain but this can take time.
 
+Often it might not be the main mycompany.com domain which falls into this trap, but maybe a secondary one like mycompany.io or that-domain-we-bought-for-that-event.com. Another common one is one for internal services inside a company.
+
 ## What Does Owning a Domain Get You?
-In a nutshell owning a domain like `example.com` gives you full control over where traffic for `example.com` goes, as well as all "sub-domains" like `www.example.com` or `www.another.example.com` goes to. 
+In a nutshell owning a domain like `example.com` gives you full control over where traffic for `example.com` goes, as well as all "sub-domains" like `www.example.com` or `www.another.example.com` goes to. It doesn't sound like much but this part is critical to how all company services fit together.
 
 ## What Does Owning a Domain Not Give You?
-- A domain simply gives you a means to map addresses
 - It will not give you any hosting or content, but many domain registrars offer this as well
 - Owning `mycompany.com` does not give you automatic rights to other top level domains (TLDs) like `mycompany.io` or `mycompany.ie`. You have to buy those separately
 
@@ -64,8 +67,6 @@ In a nutshell owning a domain like `example.com` gives you full control over whe
 
 It can be run from command line (On a mac run `Terminal` and then type `whois somedeomain`) or from some websites. e.g. https://network-tools.com/whois/ offers free whois lookups.
 
-#tools/whois
-
 # Types of Security Issues
 Examples of some seen attacks
 - Typo squatting (https://en.wikipedia.org/wiki/Typosquatting)
@@ -75,6 +76,9 @@ Examples of some seen attacks
 - DNS cache poisoning
 
 # Examples and Questions
+## Demonstration: Adding a DNS entry to codinggrace.com
+Demo of adding a new DNS entry and the how that will or won't work as expected :D
+
 ## When I want to use Cloudflare they ask me to change "NS" or Name Server records. What does that mean?
 At some point during the lookup process for a DNS entry there will be a server involved (name server, or NS) which has the final say for how a domain like `www.example.com` is mapped to an address.
 

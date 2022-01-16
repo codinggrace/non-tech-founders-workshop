@@ -1,12 +1,16 @@
-theme: Zurich, 1
+theme: Business Class, 1
 
-# DNS
-- For looking up names
+# Networking
 
 ---
 
-# What is it
-- Looks up names
+# DNS
+---
 
+# HTTP
 
- 
+---
+
+# How DNS and HTTP Fit Together
+---
+
