@@ -3,11 +3,7 @@
 Areas:
 * [[DNS]]
 * [[HTTP]]
-- How DNS and HTTP fit together
-	* How marketing can cause security incidents
-	* Why you sometimes get funny looks when asking for something simple
-	* Very coupled to cloud providers
-	* "KISS"
+- [[How DNS and HTTP fit together]]
 
 Emphasis
 - Building from basics, through APIs to cloud providers
@@ -15,5 +11,3 @@ Emphasis
 - Want to use example security stories to ground some issues
 - Want to point to other guides
 - Want to omit detail where we can but keep detail where important
-
-

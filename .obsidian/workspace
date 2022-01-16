@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Networking/How DNS and HTTP fit together.md",
             "mode": "source",
             "source": false
           }
@@ -60,7 +60,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a11c935210c711",
+        "id": "71d36d01da704089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2db961548c37fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networking/How DNS and HTTP fit together.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "23c5ba3b225110ac",
         "type": "tabs",
         "children": [
           {
@@ -69,41 +85,36 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Networking/How DNS and HTTP fit together.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e7a11c935210c711",
+        "type": "tabs",
+        "children": [
           {
             "id": "5777edb44c266dcb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Networking/How DNS and HTTP fit together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "4f2db961548c37fd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,12 +122,13 @@
   },
   "active": "e52e2a0442a9de6e",
   "lastOpenFiles": [
-    "README.md",
-    "Networking/DNS.md",
-    "Slides/Networking Slides.md",
-    "Networking/DNS Lookup Failure Example.png",
-    "Networking/Networking.md",
+    "Networking/How DNS and HTTP fit together.md",
     "Networking/HTTP.md",
-    "Excalidraw/Drawing 2022-01-16 14.37.16.excalidraw.md"
+    "Networking/DNS.md",
+    "Networking/Networking.md",
+    "Excalidraw/Drawing 2022-01-16 14.37.16.excalidraw.md",
+    "Networking/Slides/Networking Slides.md",
+    "Networking/Images/DNS Lookup Failure Example.png",
+    "README.md"
   ]
 }

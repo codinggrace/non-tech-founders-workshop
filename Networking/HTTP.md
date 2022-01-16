@@ -25,3 +25,6 @@ Server -> Browser: Send page
 ```
 
 ![[Excalidraw/Drawing 2022-01-16 14.37.16.excalidraw.md]]
+
+# URLs
+- URLs are core to the internet and the web.
