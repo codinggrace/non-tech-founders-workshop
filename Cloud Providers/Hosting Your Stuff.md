@@ -1,11 +1,4 @@
-# Cloud Providers
-
-Going to try to answer some questions:
-- Where is your service running?
-- Why not run on a desktop at home?
-	- In fact, why not a raspberry pi at home?
-- Why not build a data centre?
-
+# Hosting Your Stuff
 # Assumptions
 - You have some kind of code you need to run to serve customer's needs
 - Customers don't run the code themselves but instead talk to your service over the network
@@ -46,3 +39,14 @@ Worse, your business model might shift and you suddenly need a massive farm of G
 Cloud providers can run out of hardware too, which is it's own type of excitement :)
 
 # So Cloud hosting is perfect?
+
+# Economics of Cloud
+There are people who dub themselves "cloud economists" who specialize in figuring out how to help cost management of large cloud based companies.
+
+There are SaaS products which claim to reduce your bills.
+
+Typically if you see someone offering to charge you a % of your bill reduction (no reduction, no fees!) be a little wary. It's not hard to lop a chunk off a cloud provider bill on first inspection, and you'll be paying that forever more. And if you reduce the bill yourself (maybe a development team figures out how to operate more efficiently), you still pay!
+
+If looking for consultation on AWS bills I recommend [The Duckbill Group](https://www.duckbillgroup.com).
+
+# What's this multi-cloud thing?
