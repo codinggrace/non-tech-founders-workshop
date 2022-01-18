@@ -9,6 +9,7 @@
 
 # Outline
 We want this course to build into something useful so we've structured it like this:
+
 1. Networking (how customers talk to your product)
 2. Cloud Providers (how you host your product for customers)
 3. Source Control (how developers working for you interact with your product at a fundamental level)
