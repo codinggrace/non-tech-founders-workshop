@@ -11,15 +11,15 @@ It is like a bank for your code. If you are familiar with Version control in doc
 >
 >In this context, the answer is that code is all the text artifacts that need to be deployed to enable your business.
 
-Source control is about helping coordinate how to collaborate on code among multiple people.  How? 
+Source control is about coordinate the collaboration between multiple people.  How? 
 
-- knowing what changed and when
-- who changed it so that we can understand the context of the change
-- associate some metadata to the change, for example when fixing a bug.
+* Knowing what changed when and if good practices are followed, why.
+* Who changed it so that we can understand the context of the change when it is not clear.
+* Associate some metadata to the change, for example when fixing a bug we can attach a ticket number or similar.
+* As the owner of a repository you can control who has access to it.
 
-Once you have some code, you need to do something with it so that it becomes useful. If this is a website, when the code changes it needs some process for the website to be updated, this process is called **Deployment**. 
+Once you have some code, you need to do something with it so that it becomes useful. If this is a website, when the code changes it needs some process for the website to be updated, this process is called **Deployment**.
 
-Source control also helps with safe keeping, since you control who can modify code in your repository.
 
 # Why is this useful, can't I just Dropbox, google drive, etc?
 
