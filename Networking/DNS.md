@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/Domain_Name_System
 
 The Domain Name System (DNS) is a mechanism to identify machines on networks, be they private networks or the internet. It's often called a "phone book" for looking up unique identifying addresses for machines. 
 
+
 # Why is DNS Important?
 DNS is pretty much the only way a device can figure out how to connect to a service. It drives web browsers and all services applications use. It's used for machine to machine communication within a company. It's used everywhere and when it breaks it tends to have a large impact.
 
@@ -35,6 +36,9 @@ Your application typically asks the device it's running on (IOT, mobile phone, d
 ![[DNS Lookup Failure Example.png]]
 
 An example lookup might be something like `www.codinggrace.com` which might map to two underlying machine addresses, `172.67.134.3` and `104.21.25.104`.
+
+# Before DNS
+Orginally there was one file, `HOSTS.TXT`, which was centrally maintained by Stanford for all networks. It was manually updated. This didn't scale well.
 
 # How DNS is Structured
 DNS is structured like as file system of folders. You read from right to left.
