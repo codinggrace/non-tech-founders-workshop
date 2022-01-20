@@ -1,7 +1,7 @@
 # Source control
 
 
-# What is source control?
+## What is it?
 
 It is like a bank for your code. If you are familiar with Version control in documents (ie Word), then this is very similar, the only difference is that it's a family of documents rather than just the one.
 
