@@ -59,9 +59,14 @@ The idea here is that as long as you are signed in to 1 thing, it gives access t
 
 ### AWS and other cloud providers
 
-* They generally allow you to have a root account, you can create other accounts completely free for management. It is worth getting familiar with the process of setting up a root account and understanding the basics of identity management. The same principles will apply for a lot of important tooling
+All of them allow you to have something similar to a root account (a main administrator account). It is recommended that to do any work you create other accounts with enough power to do all the tasks. can create other accounts completely free for management. It is worth getting familiar with the process of setting up a root account and understanding the basics of identity management. The same principles will apply for a lot of important tooling
 
-* Github
+## Github and other source control management tools
 
-* DNS/ web hosting. 
+* TODO 
+
+# Web hosting and domain management
+
+This is the most in some ways the hardest one to give good guidance to because what this looks like widely changes depending on what you use to buy your domain. 
+Many low code solutions (wordpress, wix, etc) offer this as an integrated facility
 
