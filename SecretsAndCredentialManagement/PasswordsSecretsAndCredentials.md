@@ -51,7 +51,7 @@ This is definitely something you want to avoid. If it happens the solutions is h
 
 * Who (people and organisations) do you need to notify?
 * How are you stopping the problem from happening again? 
-do you need to stop trading while this problem is being solved?
+* Do you need to stop trading while this problem is being solved?
 
 
 ### Single Sign On (SSO)
@@ -77,11 +77,9 @@ The idea here is that as long as you are signed in to 1 thing such as your compu
 * Use roles for giving permissions to services
 * Use access keys for programmatic access 
 * Audit permissions 
-* 
+
 
 ## Github and other source control management tools
-
-
 
 1. Tightly Control Access
 
@@ -91,7 +89,7 @@ The idea here is that as long as you are signed in to 1 thing such as your compu
     * Repository administrators should manage team access to data. Only give contributors access to the data they need to do their work.
     * GitHub accounts are often personal ones, and do not naturally disappear when users leave the company. Make sure you diligently revoke access from users who are no longer working with you.
 2. Never store credentials as code/config in GitHub. There is good tooling to support this for all platforms.
-3. 
+
 
 [Convert your github user to an organisation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/converting-a-user-into-an-organization)
 
